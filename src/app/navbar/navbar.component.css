@@ -1,0 +1,13 @@
+#navcol-1 {
+    display: flex;
+    justify-content: right;
+    /*background-color: var(--bs-blue);*/
+    text-align: right;
+  }
+  
+  .col {
+    flex: 1 0 0%;
+    display: flex;
+  }
+
+  
